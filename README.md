@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Aldwin. A 2nd year BSIT student and beginner software developer.
+
+---
+> You're not as capable as them but that doesn't mean you're not capable.
+
+
+
 <!--
 **AldJayR/AldJayR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
